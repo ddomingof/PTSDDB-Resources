@@ -21,4 +21,4 @@ Citation
 If you use PTSDDB in your work, please consider citing:
 
 .. [1] Domingo-Fernández, D., *et al.* (2019). `PTSD Biomarker Database: Deep Dive Meta-database for PTSD Biomarkers,
-   Visualizations, and Analysis Tools <https://doi.org/10.1101/547901>`_. *bioRxiv* 547901.
+   Visualizations, and Analysis Tools <https://doi.org/10.1093/database/baz081>`_. *Database*, Volume 2019, baz081.
